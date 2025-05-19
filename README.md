@@ -118,7 +118,3 @@ $total = Cart::totalWithTax();
 ```php
 Cart::clear();
 ```
-
-## License
-
-MIT 
